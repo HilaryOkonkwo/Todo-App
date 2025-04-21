@@ -58,7 +58,7 @@
 
 @media screen and (max-width: 720px) {
     .todo{
-        width: 380px;
+        width: 350px;
         min-height: 1200px;
         border-radius: 20px;
         margin: auto;
@@ -101,6 +101,7 @@
         font-size: 26px;
         font-weight: 600;
         margin-top: -20px;
+        float:left;
     
     
     }
