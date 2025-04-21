@@ -32,11 +32,11 @@
         padding-right:10px;
     }
     .todoitems-not-tick{
-        width:5px;
-        height:5px;
+        width:15px;
+        height:15px;
     }
     .todoitems-tick{
-        width:5px;
-        height: 5px;
+        width:15px;
+        height: 15px;
     }
 }
