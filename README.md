@@ -1,6 +1,6 @@
 # Todo App
 
-    A simple and lightweight Todo Web application built with Reactjs.This app lets you add tasks, mark them as done, and delete tasks easily.It uses the browser's localStorage to persist tasks, so your list remains even after refreshing or reopening the page.
+A simple and lightweight Todo Web application built with Reactjs.This app lets you add tasks, mark them as done, and delete tasks easily.It uses the browser's localStorage to persist tasks, so your list remains even after refreshing or reopening the page.
 
 ## Features
     ✅ Add a new task
@@ -17,7 +17,7 @@
 
     1. React (Frontend Library) — Used for building dynamic and reusable user interface components.
 
-    2. JavaScript (ES6+ with SWC) — Core programming language for logic and interactivity, compiled efficiently using        SWC(Speedy Web Compiler).
+    2. JavaScript (ES6+ with SWC) — Core programming language for logic and interactivity, compiled efficiently using     SWC(Speedy Web Compiler).
 
     3. HTML5 & CSS3 — For Structuring the content and styling the application for a clean and responsive look.
 
@@ -78,13 +78,13 @@
 
 ## Deployment 
 
-    The project is deployed on Vercel, a platform known for its fast and easy deployment of web applications.
+  The project is deployed on Vercel, a platform known for its fast and easy deployment of web applications.
 
-    Live URL: [Todo App](https://reactjs-todo-app-omega.vercel.app/)
+  Live URL: [Todo App](https://reactjs-todo-app-omega.vercel.app/)
 
 ## License
 
-    This Project is Licensed under The [MIT](https://github.com/HilaryOkonkwo/Todo-App/blob/main/LICENSE)
+  This Project is Licensed under The [MIT](https://github.com/HilaryOkonkwo/Todo-App/blob/main/LICENSE)
 
 ## Contribution
     Feel free to contribute! Here's how you can help:
@@ -108,14 +108,14 @@
 
 ## Contact
 
-    Feel free to connect via:
+  Feel free to connect via:
 
-    Email:somtoochukwuhilary@gmail.com
+  Email:somtoochukwuhilary@gmail.com
 
-    Github: https://github.com/HilaryOkonkwo
+  Github: https://github.com/HilaryOkonkwo
 
-    Mobile No: +2348164514675
+  Mobile No: +2348164514675
 
-    X: [@OkonkwoSomtoo](https://x.com/OkonkwoSomtoo)
+  X: [@OkonkwoSomtoo](https://x.com/OkonkwoSomtoo)
 
-    LinkedIn: [LinkedIn](https://www.linkedin.com/in/somtoochukwu-okonkwo-691947124/)
+  LinkedIn: [LinkedIn](https://www.linkedin.com/in/somtoochukwu-okonkwo-691947124/)
