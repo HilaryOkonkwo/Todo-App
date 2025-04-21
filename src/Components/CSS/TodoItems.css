@@ -23,3 +23,20 @@
 .line-through{
     text-decoration: line-through solid #ADADAD 3PX;
 }
+
+@media screen and (max-width: 720px) {
+    .todoitems-text{
+        font-size: 18px;
+    }
+    .todoitems-cross-icon{
+        padding-right:10px;
+    }
+    .todoitems-not-tick{
+        width:fit-content;
+        height: auto;
+    }
+    .todoitems-tick{
+        width:fit-content;
+        height: auto;
+    }
+}
