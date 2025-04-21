@@ -58,7 +58,7 @@
 
 @media screen and (max-width: 720px) {
     .todo{
-        width: 400px;
+        width: 350px;
         min-height: 1200px;
         border-radius: 20px;
         margin: auto;
@@ -95,7 +95,7 @@
     }
     
     .todo-add-btn{
-        width: 95px;
+        width: 98px;
         height: 60px;
         margin-left: -100px;
         font-size: 26px;
