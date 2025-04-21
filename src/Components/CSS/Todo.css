@@ -58,7 +58,7 @@
 
 @media screen and (max-width: 720px) {
     .todo{
-        width: 350px;
+        width: 250px;
         min-height: 1200px;
         border-radius: 20px;
         margin: auto;
@@ -87,7 +87,7 @@
     }
     
     .todo-input{
-        width: 400px;
+        width: 300px;
         height: 60px;
         padding: 0px 5px;
         font-size: 30px;
@@ -101,7 +101,6 @@
         font-size: 26px;
         font-weight: 600;
         margin-top: -20px;
-        float:left;
     
     
     }
